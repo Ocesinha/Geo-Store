@@ -1,0 +1,55 @@
+
+.hero-h2{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
+    margin-left: 0.5rem;
+    font-weight: bolder;
+    padding-bottom: 2rem;
+}
+
+.hero-ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 1.5rem;
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+    overflow: scroll;
+    margin-inline: 1rem;
+    padding-bottom: 5rem;
+}
+.item{
+    background-image: url(../imgs/item.jpg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.item-description{
+    background-color: black;
+    min-width: 15rem;
+    height: 5rem;
+    border-radius: 0px 0px 10px 10px;
+    color: white;
+    font-size: 2rem;
+    font-family: "Josefin Sans", sans-serif;
+    padding-bottom: 1rem;
+}
+.item-description p{
+    margin-top: 1rem;
+}
+.hero-li{
+    padding-bottom: 1rem;
+}
+.hero-section{
+    display: flex;
+    flex-direction: column;
+}
+.button-description{
+    background-color: white;
+    padding: 0.3rem 1rem;
+    border: none;
+    border-radius: 10px;
+    font-family: "Josefin Sans", sans-serif;
+}
