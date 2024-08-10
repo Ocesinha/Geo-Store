@@ -33,6 +33,12 @@
     color: black;
     margin-inline: 1rem;
     padding-block: 0.5rem;
+    transition: 0.5s ease;
+}
+.main-button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
 /* nav */
 .nav{
@@ -50,7 +56,6 @@
 .nav-li{
     margin-block: 1rem;
     min-width: 15rem;
-    max-width: 33rem;
     border-radius: 20px;
     height: 13rem;
     max-height: 20rem;
@@ -58,8 +63,8 @@
 }
 .nav-a{
     text-decoration: none;
-    width: 23rem;
     text-decoration: none;
+    width: 90%;
     font-family: "Ubuntu", sans-serif;
     font-weight: 400;
     color: white;
@@ -67,14 +72,20 @@
 .shoes{
     background-image: url(../imgs/shoe.jpg);
     background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
 }
 .bolsa{
     background-image: url(../imgs/bolsa.jpg);
     background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
 }
 .combo{
     background-image: url(../imgs/combo.jpg);
     background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
 }
 .nav-p{
     background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent);

@@ -8,6 +8,13 @@
 .promo{
     color: rgba(255,255,255,0.4);
 }
+.hero-section{
+    transition: 0.5s;
+}
+.hero-section:hover{
+    transform: scale(1.05);
+}
+
 /* CALÇADOS */
 
 .hero-h2{
@@ -26,8 +33,9 @@
     align-items: center;
     text-align: center;
     overflow: scroll;
-    margin-inline: 1rem;
+    padding-inline: 1rem;
     padding-bottom: 3rem;
+    padding-top: 2rem;
 }
 .item{
     background-image: url(../imgs/item.jpg);
