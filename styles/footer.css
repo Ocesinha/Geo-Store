@@ -1,0 +1,21 @@
+.end{
+    background-color: black;
+    width: 100%;
+    height: 7rem;
+    border-radius: 10px 10px 0px 0px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.copy{
+    color: white;
+    align-self: center;
+    text-align: center;
+    padding-top: 1.5rem;
+
+}
+.copy a{
+    text-decoration: none;
+    color: white;
+}

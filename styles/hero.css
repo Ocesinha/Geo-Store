@@ -1,3 +1,14 @@
+.detalhe{
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+.item-price{
+    color: rgba(255,255,255,0.7);
+}
+.promo{
+    color: rgba(255,255,255,0.4);
+}
+/* CALÇADOS */
 
 .hero-h2{
     font-family: "Josefin Sans", sans-serif;
@@ -16,7 +27,7 @@
     text-align: center;
     overflow: scroll;
     margin-inline: 1rem;
-    padding-bottom: 5rem;
+    padding-bottom: 3rem;
 }
 .item{
     background-image: url(../imgs/item.jpg);
@@ -34,7 +45,7 @@
     color: white;
     font-size: 2rem;
     font-family: "Josefin Sans", sans-serif;
-    padding-bottom: 1rem;
+    padding-bottom: 2.5rem;
 }
 .item-description p{
     margin-top: 1rem;
@@ -52,4 +63,28 @@
     border: none;
     border-radius: 10px;
     font-family: "Josefin Sans", sans-serif;
+}
+
+/* BOLSAS */
+
+.item-bolsa{
+    background-image: url(../imgs/item-bolsa.jpg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.hero-ul::-webkit-scrollbar{
+    display: none;
+}
+
+/* COMBOS */
+
+.item-combo{
+    background-image: url(../imgs/item-combo.jpg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
 }
