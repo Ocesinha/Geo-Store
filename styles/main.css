@@ -3,13 +3,14 @@
     margin: 0;
     scroll-behavior: smooth;
 }
+
 /* main */
 .main{
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    background-color: black;
+    background-color: #a04a22;
     margin-bottom: 2rem;
     border-radius: 0 0 5px 5px;
     width: 100%;
@@ -36,7 +37,7 @@
     transition: 0.5s ease;
 }
 .main-button:hover{
-    background-color: black;
+    background-color: #b6842b;
     color: white;
     cursor: pointer;
 }
@@ -81,12 +82,7 @@
     background-position: center center; 
     background-repeat: no-repeat;
 }
-.combo{
-    background-image: url(../imgs/combo.jpg);
-    background-size: cover;
-    background-position: center center; 
-    background-repeat: no-repeat;
-}
+
 .nav-p{
     background: linear-gradient(to bottom, rgba(0,0,0,0.7), transparent);
     height: 7rem;
@@ -102,4 +98,5 @@
     margin-left: 0.5rem;
     font-weight: bolder;
     margin-bottom: 0.5rem;
+    color: #9d6c13;
 }
