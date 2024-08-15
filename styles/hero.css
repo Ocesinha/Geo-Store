@@ -72,6 +72,9 @@
     border-radius: 10px;
     font-family: "Josefin Sans", sans-serif;
 }
+.button-description:hover{
+    cursor: pointer;
+}
 
 /* BOLSAS */
 
@@ -95,4 +98,160 @@
     min-width: 15rem;
     height: 15rem;
     border-radius: 10px 10px 0px 0px;
+}
+
+/* produtos */
+
+#product1{
+    background-image: url(../imgs/produtos/1.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product2{
+    background-image: url(../imgs/produtos/2.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product3{
+    background-image: url(../imgs/produtos/3.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product4{
+    background-image: url(../imgs/produtos/4.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product5{
+    background-image: url(../imgs/produtos/5.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product6{
+    background-image: url(../imgs/produtos/6.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product7{
+    background-image: url(../imgs/produtos/7.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product8{
+    background-image: url(../imgs/produtos/8.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product9{
+    background-image: url(../imgs/produtos/9.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+
+}
+#product10{
+    background-image: url(../imgs/produtos/10.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product11{
+    background-image: url(../imgs/produtos/11.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product12{
+    background-image: url(../imgs/produtos/12.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product13{
+    background-image: url(../imgs/produtos/13.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product14{
+    background-image: url(../imgs/produtos/14.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product15{
+    background-image: url(../imgs/produtos/15.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product17{
+    background-image: url(../imgs/produtos/17.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center;
+}
+#product18{
+    background-image: url(../imgs/produtos/18.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center; 
+}
+#product19{
+    background-image: url(../imgs/produtos/19.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center; 
+}
+#product16{
+    background-image: url(../imgs/produtos/16.jpeg);
+    background-size: cover;
+    min-width: 15rem;
+    height: 15rem;
+    border-radius: 10px 10px 0px 0px;
+    background-position: center; 
 }
